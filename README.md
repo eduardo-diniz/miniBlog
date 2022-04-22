@@ -1,2 +1,2 @@
 # miniBlog
-Blog criado para exercicitar conceitos de Ruby on Rails + B.D.+ Angular
+Blog criado para exercitar conceitos de Ruby on Rails + B.D.+ Angular
